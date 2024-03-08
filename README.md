@@ -17,7 +17,6 @@ Quizzify allows users to customize their quiz experience by selecting the number
 
 - Choose the number of questions, category, difficulty, and time per question.
 - Dynamic timer and progress bar for each question.
-- Fetches questions from the [Open Trivia Database](https://opentdb.com/api_config.php).
 - User-friendly interface with responsive design.
 - Check your final score at the end of the quiz.
 
