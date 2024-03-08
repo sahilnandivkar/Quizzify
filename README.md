@@ -24,4 +24,4 @@ Feel free to explore the code, customize the application, and contribute to make
 
 ## Project Link
 
-[Quizzify - Web Quiz Application](#)
+[Quizzify - Web Quiz Application](https://sahilnandivkar.github.io/Quizzify/)
